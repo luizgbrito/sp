@@ -37,8 +37,8 @@
   max-width: 500px;
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: rgba(0, 122, 228, 0.34);
-  box-shadow: 0 10px 66px 0 rgba(163, 0, 0, 0.45), inset 1px 1px 10px 1px #a30000;
+  background-color: #3E69AD;
+  box-shadow: 0 10px 66px 0 rgba(163, 0, 0, 0.45), inset 1px 1px 10px 1px #3E69AD;
   -webkit-filter: brightness(110%) saturate(120%);
   filter: brightness(110%) saturate(120%);
 }
@@ -57,7 +57,7 @@
 .button.animated-button1.full-width._2 {
   width: 100%;
   background-color: #3e69ad;
-  box-shadow: 0 10px 45px 0 rgba(255, 183, 0, 0.3), inset 1px 1px 10px 1px #5883c4;
+  box-shadow: 0 10px 45px 0 rgba(255, 183, 0, 0.3), inset 1px 1px 10px 1px #3E69AD;
   -webkit-filter: none;
   filter: none;
 }
@@ -89,7 +89,7 @@
 }
 
 .yellow {
-  color: #5883c4;
+  color: #3E69AD;
 }
 
 .legend {
